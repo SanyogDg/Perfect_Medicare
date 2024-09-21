@@ -1,4 +1,4 @@
-import { configureStore } from "@reduxjs/toolkit";
+// import { createSlice } from '@reduxjs/toolkit';
 import { catchAsyncErrors } from "../middlewares/catchAsyncErrors.js";
 import ErrorHandler from "../middlewares/errorMiddleware.js";
 import ErrrorHandler from "../middlewares/errorMiddleware.js"
